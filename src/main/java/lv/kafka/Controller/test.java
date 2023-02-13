@@ -10,6 +10,7 @@ public class test {
     public static void main(String[] args) {
         String ab="aghdfagf";
         String ab1="aghdfagf";
+        System.out.println(1111);
         reg(ab);
     }
     private static Integer reg(String ab){

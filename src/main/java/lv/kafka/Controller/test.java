@@ -9,8 +9,7 @@ import java.util.ArrayList;
 public class test {
     public static void main(String[] args) {
         String ab="aghdfagf";
-        System.out.println(11);
-        System.out.println(11);
+        String ab1="aghdfagf";
         reg(ab);
     }
     private static Integer reg(String ab){
